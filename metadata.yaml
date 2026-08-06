@@ -1,0 +1,9 @@
+name: astrbot_plugin_send
+display_name: 发送指定消息
+desc: 管理员使用 /send 指令让 Bot 发送指定消息，支持 ## 分隔符分条发送
+version: v1.0.0
+author: YourName
+repo: https://github.com/1740443398/astrbot_plugin_send
+support_platforms:
+  - aiocqhttp
+astrbot_version: ">=4.16,<5"
