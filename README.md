@@ -1,6 +1,11 @@
-# 发送指定消息 (astrbot_plugin_send)
+# astrbot_plugin_send
 
-AstrBot 插件，管理员或指定用户使用 `/send` 指令让 Bot 发送指定消息，支持 `##` 分隔符分条发送，任何用户可用 `/send stop` 停止发送。
+管理员或指定用户使用 `/send` 指令让 Bot 发送指定消息，支持 `##` 分隔符分条发送，任何用户可用 `/send stop` 停止发送。
+
+> [!NOTE]
+> 这是 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 的插件。
+>
+> [AstrBot](https://github.com/AstrBotDevs/AstrBot) 是一个 agentic 助手，适用于个人和群聊场景。支持部署在 QQ、Telegram、飞书、钉钉、Slack、LINE、Discord、Matrix 等数十个主流即时通讯平台。
 
 ## 功能特性
 
@@ -54,6 +59,12 @@ AstrBot 插件，管理员或指定用户使用 `/send` 指令让 Bot 发送指�
 - 平台：aiocqhttp（QQ）
 - AstrBot 版本：>=4.16, <5
 
+## Supports
+
+- [AstrBot Repo](https://github.com/AstrBotDevs/AstrBot)
+- [AstrBot 插件开发文档（中文）](https://docs.astrbot.app/dev/star/plugin-new.html)
+- [AstrBot Plugin Development Docs (English)](https://docs.astrbot.app/en/dev/star/plugin-new.html)
+
 ## 许可证
 
-MIT
+AGPL-3.0
